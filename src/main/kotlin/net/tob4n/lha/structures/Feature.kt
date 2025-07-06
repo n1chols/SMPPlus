@@ -1,4 +1,4 @@
-package net.tob4n.lha.structures
+package net.tob4n.smpplus.structures
 
 import org.bukkit.NamespacedKey
 import org.bukkit.event.HandlerList
