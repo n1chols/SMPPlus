@@ -1,8 +1,8 @@
-package net.tob4n.lha
+package net.tob4n.smpplus
 
-import net.tob4n.lha.features.HideNameTags
-import net.tob4n.lha.features.OfflinePlayerBodies
-import net.tob4n.lha.structures.Feature
+import net.tob4n.smpplus.features.HideNameTags
+import net.tob4n.smpplus.features.OfflinePlayerBodies
+import net.tob4n.smpplus.structures.Feature
 import org.bukkit.plugin.java.JavaPlugin
 
 class Main : JavaPlugin() {
