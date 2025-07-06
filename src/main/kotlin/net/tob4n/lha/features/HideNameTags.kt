@@ -7,7 +7,7 @@ import net.minecraft.network.protocol.game.ClientboundSetPlayerTeamPacket
 import net.minecraft.world.scores.PlayerTeam
 import net.minecraft.world.scores.Scoreboard
 import net.minecraft.world.scores.Team
-import net.tob4n.lha.structures.Feature
+import net.tob4n.smpplus.structures.Feature
 import org.bukkit.FluidCollisionMode
 import org.bukkit.Material
 import org.bukkit.Tag
