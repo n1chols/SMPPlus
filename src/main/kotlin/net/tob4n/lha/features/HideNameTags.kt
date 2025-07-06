@@ -1,4 +1,4 @@
-package net.tob4n.lha.features
+package net.tob4n.smpplus.features
 
 import com.destroystokyo.paper.MaterialTags
 import io.papermc.paper.event.player.PlayerTrackEntityEvent
