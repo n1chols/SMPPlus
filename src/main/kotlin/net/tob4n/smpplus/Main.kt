@@ -1,7 +1,6 @@
 package net.tob4n.smpplus
 
 import net.tob4n.smpplus.features.HideNameTags
-import net.tob4n.smpplus.features.OfflinePlayerBodies
 import net.tob4n.smpplus.structures.Feature
 import org.bukkit.plugin.java.JavaPlugin
 
