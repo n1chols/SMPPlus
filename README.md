@@ -1,5 +1,5 @@
-Completed features:
+#### Completed features:
 - Hiding player name tags behind walls
 
-Planned features:
+#### Planned features:
 - Offline player bodies
